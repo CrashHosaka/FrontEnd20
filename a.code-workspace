@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Aula1"
+		},
+		{
+			"path": "../../Aula2"
+		},
+		{
+			"path": "../../Aula3"
+		},
+		{
+			"path": "../../Aula4"
+		},
+		{
+			"path": "../../Aula5"
+		},
+		{
+			"path": "../../AulaFE01"
+		},
+		{
+			"path": "../../AulaFE02"
+		},
+		{
+			"path": "../../AulaFE03"
+		},
+		{
+			"path": "../../AulaFE04"
+		},
+		{
+			"path": "../../AulaFE05"
+		},
+		{
+			"path": "../../AulaFE06"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "a"
+	}
+}
